@@ -1,0 +1,5 @@
+termcolor==1.1.*
+xmlplain==1.6.*
+xmltodict==0.12.*
+behave==1.2.*
+pyinstaller==3.5.*
